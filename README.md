@@ -1,4 +1,4 @@
-# email-sms-spam-detection
+# Email-SMS-Spam-Detection
 It is a webapp for detecting spam messages.
 - Tools and Technologies
   - python, numpy, pandas, matplotlib, plotly for data cleaning, data preprocsssing and visualization
